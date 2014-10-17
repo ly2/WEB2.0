@@ -1,0 +1,64 @@
+body {
+
+	background-attachment:fixed
+}
+.ppie {
+	margin-top: 1px;
+	text-align: center;
+}
+.nb {
+	margin-top: 0px;
+	height: 46px; 
+}
+.nb img {
+	float: right;
+}
+h1 {
+	text-align: center;
+	letter-spacing: 1.5px;
+	color: #696969;
+	font-size: 24pt;
+	font-family: "Century Gothic", "Georgia", "Verdana", serif;
+	margin-bottom: 0;
+}
+.dash {
+	margin-left: 500px;
+	height: 1px;
+	width: 330px;
+	border-bottom: 2px #cccccc dashed;
+	overflow:hidden;
+	margin-bottom: 30px;
+}
+p {
+	font-family: "Georgia", "Garamond", serif;
+	font-style: italic;
+}
+.content p {
+	margin-right: 200px;
+	margin-left: 200px;
+	color: #404040;
+	font-family: "Verdana", serif;
+	font-weight: bold;
+	background-color: #FFFFC8;
+}
+.content p:first-letter {
+	font-size: 150%;
+}
+.buy {
+	height: 18px;
+	width: 140px;
+	margin-left: 580px;
+	background-color: #C0C0C0;
+}
+.buy a, .buy p {
+	color: #1E90FF;
+	font-weight: bold;
+	text-decoration: none;
+	text-align: center;
+}
+.buy p:hover {
+	color: #696969;
+}
+iframe {
+	border-width: 0;
+}
